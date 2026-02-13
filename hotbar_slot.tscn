@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://ctlwg6bxg85p8"]
+
+[ext_resource type="Texture2D" uid="uid://s65jx3g73v45" path="res://assets/ui/fantasy_pixelart_ui/panels/gold_panel.png" id="1_1a228"]
+[ext_resource type="Script" uid="uid://hd3olmbdbe4l" path="res://hotbar_slot.gd" id="2_leyo8"]
+
+[node name="hotbar_slot" type="Button" unique_id=1455959522]
+offset_right = 56.0
+offset_bottom = 56.0
+icon = ExtResource("1_1a228")
+script = ExtResource("2_leyo8")
