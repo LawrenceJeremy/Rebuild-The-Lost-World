@@ -1,0 +1,41 @@
+[gd_scene format=3 uid="uid://boke7lpfmahe5"]
+
+[node name="HotbarUi" type="Control" unique_id=2011883710]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Panel" type="Panel" parent="." unique_id=1409689673]
+layout_mode = 0
+offset_left = 254.0
+offset_top = 86.0
+offset_right = 894.0
+offset_bottom = 490.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Panel" unique_id=2112668474]
+layout_mode = 0
+offset_right = 643.0
+offset_bottom = 400.0
+
+[node name="TextureButton" type="TextureButton" parent="Panel/HBoxContainer" unique_id=843813667]
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="Panel/HBoxContainer/TextureButton" unique_id=932221474]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="TextureButton2" type="TextureButton" parent="Panel/HBoxContainer" unique_id=1523035673]
+layout_mode = 2
+
+[node name="TextureButton3" type="TextureButton" parent="Panel/HBoxContainer" unique_id=1754327648]
+layout_mode = 2
+
+[node name="TextureButton4" type="TextureButton" parent="Panel/HBoxContainer" unique_id=1439367024]
+layout_mode = 2
+
+[node name="TextureButton5" type="TextureButton" parent="Panel/HBoxContainer" unique_id=1362573709]
+layout_mode = 2

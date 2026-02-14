@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://baxe341k5lrrb"]
 
 [ext_resource type="Script" uid="uid://btov0learn673" path="res://assets/Player/Scripts/player.gd" id="1_onrkg"]
-[ext_resource type="Texture2D" uid="uid://cngmy7mn3epkq" path="res://assets/Player/Sprites/ordinary_man.png" id="2_onrkg"]
+[ext_resource type="Texture2D" uid="uid://cngmy7mn3epkq" path="res://assets/Player/Sprites/GandalfHardcore Character Asset Pack/ordinary_man.png" id="2_onrkg"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_i3pqv"]
 
