@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://b5h2lxiwtul8x"]
 
-[ext_resource type="PackedScene" uid="uid://baxe341k5lrrb" path="res://assets/Player/Sprites/player.tscn" id="1_gyj87"]
-[ext_resource type="Script" uid="uid://c12hydkyiyy6w" path="res://Scene/UI/World/Main/main_world.gd" id="1_lqj6p"]
+[ext_resource type="PackedScene" uid="uid://d3av8383qvcxb" path="res://assets/Player/Sprites/player.tscn" id="1_gyj87"]
+[ext_resource type="Script" uid="uid://c12hydkyiyy6w" path="res://Scene/ui/World/Main/main_world.gd" id="1_lqj6p"]
 
 [node name="MainWorld" type="Node2D" unique_id=590491221]
 script = ExtResource("1_lqj6p")

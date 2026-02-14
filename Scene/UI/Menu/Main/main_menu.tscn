@@ -1,10 +1,10 @@
 [gd_scene format=3 uid="uid://yr4ohwauns62"]
 
-[ext_resource type="Script" uid="uid://qgxjpavuepfu" path="res://Scene/UI/Menu/Main/main_menu.gd" id="1_adu7x"]
+[ext_resource type="Script" uid="uid://qgxjpavuepfu" path="res://Scene/ui/Menu/Main/main_menu.gd" id="1_adu7x"]
 [ext_resource type="Texture2D" uid="uid://dk7v53g6c1dwd" path="res://Scene/Images/background.jpg" id="2_bdy74"]
 [ext_resource type="FontFile" uid="uid://danndm6eausyh" path="res://Super Wonder.ttf" id="3_q1rjx"]
-[ext_resource type="Script" uid="uid://bl0pqyqh1lq4e" path="res://Scene/UI/Menu/Main/music_control.gd" id="4_ct62s"]
-[ext_resource type="Script" uid="uid://euei4v1eyx0n" path="res://Scene/UI/Menu/Main/fullscreen_control.gd" id="5_0gcn6"]
+[ext_resource type="Script" uid="uid://bl0pqyqh1lq4e" path="res://Scene/ui/Menu/Main/music_control.gd" id="4_ct62s"]
+[ext_resource type="Script" uid="uid://euei4v1eyx0n" path="res://Scene/ui/Menu/Main/fullscreen_control.gd" id="5_0gcn6"]
 [ext_resource type="AudioStream" uid="uid://co8ewsqi7t2f7" path="res://assets/sound/MA_Originals_CricketsAndSparrows_3.wav" id="6_hqysk"]
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_7vrkn"]

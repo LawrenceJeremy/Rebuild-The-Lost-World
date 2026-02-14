@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://d3av8383qvcxb"]
 
-[ext_resource type="Script" uid="uid://b0fh7m1r7mlcp" path="res://assets/Player/Sprites/player.gd" id="1_3mlgr"]
+[ext_resource type="Script" uid="uid://b0fh7m1r7mlcp" path="res://assets/Player/Scripts/player.gd" id="1_3mlgr"]
 [ext_resource type="Texture2D" uid="uid://b06gkhqyir0v8" path="res://assets/Player/Sprites/Characters/Human/WALKING/base_walk_strip8.png" id="1_8fx8c"]
 [ext_resource type="Texture2D" uid="uid://btmjk87a5onu4" path="res://assets/Player/Sprites/Characters/Human/IDLE/base_idle_strip9.png" id="2_l77cx"]
 [ext_resource type="Texture2D" uid="uid://c67ejk5xqx3m2" path="res://assets/Player/Sprites/Characters/Human/RUN/base_run_strip8.png" id="3_l77cx"]
